@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @declanrjb
-- 👀 I’m interested in data analysis and visualization.
-- 🌱 I’m currently learning R for data science.
+- 👀 I’m interested in data journalism and visual rhetoric.
+- 🌱 I’m currently learning machine learning in R.
 - 📫 You can reach me at declanrjb@gmail.com.
 
 <!---
